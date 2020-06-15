@@ -1,0 +1,13 @@
+{
+    "id": "office365",
+    "name": "Office 365",
+    "version": "1.0.0",
+    "description": "Office 365",
+    "main": "index.js",
+    "author": "Nicholas Wong <nickwph@gmail.com>",
+    "repository": "https://github.com/nickwph/office365-franz",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://outlook.office365.com/owa"
+    }
+}
